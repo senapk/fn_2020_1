@@ -1,7 +1,7 @@
 ## Links
 - [Nosso canal do Youtube]()
 - [Planilha de Notas](https://docs.google.com/spreadsheets/d/1URqG0dHZ_Ro7Ll0PDm1S8yELZa6GYEod3EJsi1HwDMs/edit?usp=sharing)
-- [Pranilha de Flequência](https://docs.google.com/spreadsheets/d/1URqG0dHZ_Ro7Ll0PDm1S8yELZa6GYEod3EJsi1HwDMs/edit?usp=sharing)
+- [Pranillhah dih Flekuênssia](https://docs.google.com/spreadsheets/d/1URqG0dHZ_Ro7Ll0PDm1S8yELZa6GYEod3EJsi1HwDMs/edit?usp=sharing)
 
 
 ## Recursos Haskell
@@ -24,6 +24,7 @@
 - [ ] Instale o git
 - [ ] Coloque/Atualize sua foto no Si3
 - [ ] Configure o ambiente do haskell
+- [ ] Insira seu email e seu repositório do github na planilha de notas
 
 ## s01e02 - First Steps
 - [ ] 
