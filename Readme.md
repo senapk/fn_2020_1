@@ -24,10 +24,10 @@
 - [ ] Instale o git
 - [ ] Coloque/Atualize sua foto no Si3
 - [ ] Configure o ambiente do haskell
-- [ ] Insira seu email e seu repositório do github na planilha de notas
 
 ## s01e02 - First Steps
 - [ ] Crie seu repositório do github
+- [ ] Insira seu email e seu repositório do github na planilha de notas
 - [ ] Faça os exercícios do [arcade basic](https://github.com/senapk/funcional_arcade#basic) e suba para a pasta `01_arcade_basic` no seu repositório
 
 

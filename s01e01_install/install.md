@@ -1,55 +1,33 @@
-```sh
-## Instalar prerequisitos para ubuntu
+## configurando ambiente no ubuntu
+
+```
 sudo apt install libicu-dev libncurses-dev libgmp-dev git build-essential libicu-dev libtinfo-dev libgmp-dev libc6-dev libffi-dev git g++ gcc make xz-utils zlib1g-dev gnupg curl
+```
 
-# rode os comando com um usuário não root
-bash <(curl https://nixos.org/nix/install)
+- usando ghcup para instalar - ghc, ghci, cabal
+    - ghc é o compilador
+    - ghci é o intepretador
+    - cabal é o gerenciador de pacotes
+```
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+```
 
-# rode o comando abaixo
-# abra o arquivo ~/.profile e adicione essa linha ao final
-. ~/.nix-profile/etc/profile.d/nix.sh
-
-# deslogue e logue novamente
-
-# instale o cachix
-nix-env -iA cachix -f https://cachix.org/api/v1/install
-cachix use all-hies
-
-# install ghc versao 865
-nix-env -iA unstableFallback.selection --arg selector 'p: { inherit (p) ghc865; }' -f https://github.com/infinisil/all-hies/tarball/master
-
-# instalar ghc e stack e cabal no arquivo ~/.ghcup
-curl https://get-ghcup.haskell.org -sSf | sh
-
-# adicione a seguinte linha no seu .bashrc ou .zshrc
+- adicione essa linha no seu .profile
+```
 source '/home/tiger/.ghcup/env'
-
-
-# Digite yes quando terminar o comando
-
-# desloque e logue de novo ou abra um novo terminal
-# teste digitando ghc ou ghci
 ```
-
-Instalar vscode e a extensão `haskell language server`
-
-Criar um código simples em haskell e testar se o funciona o autocomplete e a identificação de erros.
-
-```hs
--- Main.hs
-main = do
-    putStrLn "Hello, what's your name?"  
-    name <- getLine
-    putStrLn ("Hey " ++ name ++ ", you rock!")
+- deslogue e logue
+- habilite a versão mais estável do ghc - ghc 8.6.5
 ```
-
-Compilar e executar usando
-
-```bash
-ghc -o Main Main.hs
-./Main
+ghcup set 8.6.5
 ```
-
-Se o plugin estiver instalado corretamente, deve ficar parecido com essa tela:
-
-![](vscode.jpg)
+- instalar biblioteca para fazer o parse de input de vetores
+```
+cabal install split
+```
+# install hie using cabal
+```
+git clone https://github.com/haskell/haskell-ide-engine --recurse-submodules
+cd haskell-ide-engine
+./cabal-hie-install hie-8.6.5
+```
