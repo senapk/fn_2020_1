@@ -1,7 +1,7 @@
 ## Links
 - [Nosso canal do Youtube]()
 - [Planilha de Notas](https://docs.google.com/spreadsheets/d/1URqG0dHZ_Ro7Ll0PDm1S8yELZa6GYEod3EJsi1HwDMs/edit?usp=sharing)
-- [Pranillhah dih Flekuênssia](https://docs.google.com/spreadsheets/d/1URqG0dHZ_Ro7Ll0PDm1S8yELZa6GYEod3EJsi1HwDMs/edit?usp=sharing)
+- [Pranillhah dih Flekuênssia](https://docs.google.com/spreadsheets/d/13a_5b-T8Hc7lJeIGCFt-8gMyotS5BaIuG0mzNIyLU2c/edit#gid=0)
 
 
 ## Recursos Haskell
@@ -18,16 +18,20 @@
 - [Git book](https://pt.wikiversity.org/wiki/Git_B%C3%A1sico)
 - [Vídeo Aulas]("https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0") Assista dos vídeos de 1 até o 4.
 
-## s01e01 - Boas Vindas
+## S01E01 - Boas Vindas
 - [ ] Leia o curso em portugues até o final do capítulo 2
     - fazer os exercícios propostos durante as leituras
 - [ ] Instale o git
 - [ ] Coloque/Atualize sua foto no Si3
 - [ ] Configure o ambiente do haskell
 
-## s01e02 - First Steps
+## S01E02 - First Steps
 - [ ] Crie seu repositório do github
 - [ ] Insira seu email e seu repositório do github na planilha de notas
-- [ ] Faça os exercícios do [arcade basic](https://github.com/senapk/funcional_arcade#basic) e suba para a pasta `01_arcade_basic` no seu repositório
+- [ ] Faça os exercícios do [arcade basic](https://github.com/senapk/funcional_arcade#basic) e suba para a pasta `01_arcade_basic` no seu repositório.
+
+## S02E01 - Main e IO
+
+
 
 
