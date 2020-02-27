@@ -1,5 +1,5 @@
 ## Links
-- [Nosso canal do Youtube]()
+- [Discord](https://discord.gg/dvkXhTN)
 - [Planilha de Notas](https://docs.google.com/spreadsheets/d/1URqG0dHZ_Ro7Ll0PDm1S8yELZa6GYEod3EJsi1HwDMs/edit?usp=sharing)
 - [Pranillhah dih Flekuênssia](https://docs.google.com/spreadsheets/d/13a_5b-T8Hc7lJeIGCFt-8gMyotS5BaIuG0mzNIyLU2c/edit#gid=0)
 
