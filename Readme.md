@@ -31,7 +31,10 @@
 - [ ] Faça os exercícios do [arcade basic](https://github.com/senapk/funcional_arcade#basic) e suba para a pasta `01_arcade_basic` no seu repositório.
 
 ## S02E01 - Main e IO
+- [] faça o exercício de sublist
 
-
+## S02E02
+- [ ] Leia os capítulos 3 e 4
+- [ ] Faça quaisquer 20 exercícios da [lista](listas/programacao_funcional_lista_1.pdf)
 
 
