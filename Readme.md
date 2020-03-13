@@ -31,10 +31,17 @@
 - [ ] Faça os exercícios do [arcade basic](https://github.com/senapk/funcional_arcade#basic) e suba para a pasta `01_arcade_basic` no seu repositório.
 
 ## S02E01 - Main e IO
-- [] faça o exercício de sublist
+- [ ] faça o exercício de sublist
+- Se quiser o script para compilar e executar ao mesmo tempo: [script](s01e01_install/script.md)
 
 ## S02E02
 - [ ] Leia os capítulos 3 e 4
 - [ ] Faça quaisquer 20 exercícios da [lista](listas/programacao_funcional_lista_1.pdf)
 
+## S03E01
+- [ ] Leia os capítulos 5 e 6 da lista
+- [ ] Termine a lista
+
+## S04E01
+- [ ] 
 
