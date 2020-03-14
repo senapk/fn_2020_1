@@ -1,5 +1,7 @@
 ## Links
 - [Discord](https://discord.gg/dvkXhTN)
+- Slides na pasta slides
+- Listas na pasta listas
 - [Planilha de Notas](https://docs.google.com/spreadsheets/d/1URqG0dHZ_Ro7Ll0PDm1S8yELZa6GYEod3EJsi1HwDMs/edit?usp=sharing)
 - [Pranillhah dih Flekuênssia](https://docs.google.com/spreadsheets/d/13a_5b-T8Hc7lJeIGCFt-8gMyotS5BaIuG0mzNIyLU2c/edit#gid=0)
 
@@ -30,18 +32,18 @@
 - [ ] Insira seu email e seu repositório do github na planilha de notas
 - [ ] Faça os exercícios do [arcade basic](https://github.com/senapk/funcional_arcade#basic) e suba para a pasta `01_arcade_basic` no seu repositório.
 
-## S02E01 - Main e IO
+## S02
 - [ ] faça o exercício de sublist
-- Se quiser o script para compilar e executar ao mesmo tempo: [script](s01e01_install/script.md)
-
-## S02E02
 - [ ] Leia os capítulos 3 e 4
 - [ ] Faça quaisquer 20 exercícios da [lista](listas/programacao_funcional_lista_1.pdf)
 
 ## S03E01
 - [ ] Leia os capítulos 5 e 6 da lista
-- [ ] Termine a lista
+- [ ] Faça do 20 ao 40 da lista
 
 ## S04E01
-- [ ] 
+- [ ] coloquei os slides na pasta slides
+- [ ] estudem pra prova de sexta
+- [ ] podem ler o capítulo 7
+- [ ] Vamos tentar utilizar o discord e as issues do github
 

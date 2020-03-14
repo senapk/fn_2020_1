@@ -1,0 +1,33 @@
+case=00
+input=1
+output="True
+"
+grade reduction=100%
+
+
+case=01
+input=1 2 3 4
+output="True
+"
+grade reduction=100%
+
+
+case=02
+input=1 2 3 4 3
+output="False
+"
+grade reduction=100%
+
+
+case=03
+input=1 1 0 2 3 4 3
+output="False
+"
+grade reduction=100%
+
+
+case=04
+input=-1 -1 0 2 3 4 3
+output="True
+"
+grade reduction=100%
