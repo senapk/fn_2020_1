@@ -1,5 +1,5 @@
 ## Links
-- [Discord](https://discord.gg/dvkXhTN)
+- [Discord](https://discord.gg/yBmGaq6)
 - Slides na pasta slides
 - Listas na pasta listas
 - [Planilha de Notas](https://docs.google.com/spreadsheets/d/1URqG0dHZ_Ro7Ll0PDm1S8yELZa6GYEod3EJsi1HwDMs/edit?usp=sharing)
