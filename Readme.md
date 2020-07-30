@@ -1,10 +1,38 @@
+# Funcional
+<!--TOC_BEGIN-->
+- [Vídeos](#vídeos)
+- [Links](#links)
+- [Trabalhos](#trabalhos)
+- [Recursos Haskell](#recursos-haskell)
+- [Recursos Git](#recursos-git)
+- [S01E01 - Boas Vindas](#s01e01---boas-vindas)
+- [S01E02 - First Steps](#s01e02---first-steps)
+- [S02E01](#s02e01)
+- [S03E01](#s03e01)
+- [S04E01](#s04e01)
+- [S06E01](#s06e01)
+
+<!--TOC_END-->
+
+## Vídeos
+- [30/07/2020](https://drive.google.com/file/d/1HdQCi0Qm2WmoarquzmSHRuZFbw4RgYGY/view?usp=sharing)
+- [03/07/2020](https://drive.google.com/file/d/1XdJ0iJEPWIj9GOG7Ew3RSgelECykLoop/view?usp=sharing)
+- [23/07/2020](https://drive.google.com/file/d/18I_f6Jnu23DfsBskQ-WQw0CdvCo6mnd4/view?usp=sharing)
+
 ## Links
 - [Discord](https://discord.gg/yBmGaq6)
-- Slides na pasta slides
-- Listas na pasta listas
 - [Planilha de Notas](https://docs.google.com/spreadsheets/d/1URqG0dHZ_Ro7Ll0PDm1S8yELZa6GYEod3EJsi1HwDMs/edit?usp=sharing)
 - [Pranillhah dih Flekuênssia](https://docs.google.com/spreadsheets/d/13a_5b-T8Hc7lJeIGCFt-8gMyotS5BaIuG0mzNIyLU2c/edit#gid=0)
 
+## Trabalhos
+
+- 01_trabalho1
+    - Readme.md
+    - códigos
+- 02_trabalho2
+    - Esse é o trabalho das 40 questões
+    - Readme.md
+    - códigos
 
 ## Recursos Haskell
 - [Curso Youtube](https://www.youtube.com/watch?v=L_GvP5XTJj4&list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z)
@@ -32,7 +60,7 @@
 - [ ] Insira seu email e seu repositório do github na planilha de notas
 - [ ] Faça os exercícios do [arcade basic](https://github.com/senapk/funcional_arcade#basic) e suba para a pasta `01_arcade_basic` no seu repositório.
 
-## S02
+## S02E01
 - [ ] faça o exercício de sublist
 - [ ] Leia os capítulos 3 e 4
 - [ ] Faça quaisquer 20 exercícios da [lista](listas/programacao_funcional_lista_1.pdf)
@@ -45,5 +73,8 @@
 - [ ] coloquei os slides na pasta slides
 - [ ] estudem pra prova de sexta
 - [ ] podem ler o capítulo 7
-- [ ] Vamos tentar utilizar o discord e as issues do github
 
+## S06E01
+- [ ] TERMINE AS 40 QUESTÕES
+- [ ] Teremos uma provinha com algumas dessas questões na semana que vem
+- [ ] Seman que vem começamos a matéria nova
