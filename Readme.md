@@ -15,9 +15,9 @@
 <!--TOC_END-->
 
 ## Vídeos
-- [30/07/2020](https://drive.google.com/file/d/1HdQCi0Qm2WmoarquzmSHRuZFbw4RgYGY/view?usp=sharing)
 - [03/07/2020](https://drive.google.com/file/d/1XdJ0iJEPWIj9GOG7Ew3RSgelECykLoop/view?usp=sharing)
 - [23/07/2020](https://drive.google.com/file/d/18I_f6Jnu23DfsBskQ-WQw0CdvCo6mnd4/view?usp=sharing)
+- [30/07/2020](https://drive.google.com/file/d/1HdQCi0Qm2WmoarquzmSHRuZFbw4RgYGY/view?usp=sharing)
 
 ## Links
 - [Discord](https://discord.gg/yBmGaq6)
