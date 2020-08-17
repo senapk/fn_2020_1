@@ -59,6 +59,9 @@ divideByTen1  = (/10)
 dezPor :: Fractional a => a -> a
 dezPor = (10/)
 
+dividido :: Double -> Double -> Double
+dividido = (/)
+
 -- --------------
 comparar x y = compare x y
 
@@ -95,6 +98,32 @@ juntos = zipWith (\s i -> s ++ " " ++ show(i)) nomes nletras
 estaOrdenada [] = True
 estaOrdenada [x] = True
 estaOrdenada (x:xs) = if x > head xs then False else estaOrdenada xs 
+
+----------------------------------------------------------
+
+fn a b = a ++ b
+
+x = foldl fn "azedo" ["aba", "ca", "xi"]
+-- azedoabacaxi
+
+y = foldr fn "azedo" ["aba", "ca", "xi"]
+-- abacaxiazedo
+
+r = foldr (-) 54 [10, 11]
+-- produz (10 - (11 - 54))
+
+l = foldl (-) 54 [10, 11]
+-- produz ((54 - 10) - 11)
+-- result 53
+-- Starting accumulator = 54
+-- 11 -   54  = -43
+-- 10 - (-43) =  53
+
+
+
+-- foldl evaluates from left to right (left-associative)
+-- foldr evaluates from right to left (right-associative)
+
 
 main = do
     line <- getLine

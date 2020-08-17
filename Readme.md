@@ -11,6 +11,8 @@
 - [S03E01](#s03e01)
 - [S04E01](#s04e01)
 - [S06E01](#s06e01)
+- [S07 - Funções parciais e curried](#s07---funções-parciais-e-curried)
+- [S08 - Folds](#s08---folds)
 
 <!--TOC_END-->
 
@@ -18,6 +20,7 @@
 - [03/07/2020](https://drive.google.com/file/d/1XdJ0iJEPWIj9GOG7Ew3RSgelECykLoop/view?usp=sharing)
 - [23/07/2020](https://drive.google.com/file/d/18I_f6Jnu23DfsBskQ-WQw0CdvCo6mnd4/view?usp=sharing)
 - [30/07/2020](https://drive.google.com/file/d/1HdQCi0Qm2WmoarquzmSHRuZFbw4RgYGY/view?usp=sharing)
+- [17/08/2020 Operações de fold](https://youtu.be/_D380pkfibc)
 
 ## Links
 - [Discord](https://discord.gg/yBmGaq6)
@@ -78,3 +81,9 @@
 - [ ] TERMINE AS 40 QUESTÕES
 - [ ] Teremos uma provinha com algumas dessas questões na semana que vem
 - [ ] Seman que vem começamos a matéria nova
+
+## S07 - Funções parciais e curried
+- [ ] Estude o resto do capítulo
+
+## S08 - Folds
+- [ ] Faça as atividades do moodle do Wladmir do capítulo de Folds
