@@ -21,6 +21,8 @@
 - [23/07/2020](https://drive.google.com/file/d/18I_f6Jnu23DfsBskQ-WQw0CdvCo6mnd4/view?usp=sharing)
 - [30/07/2020](https://drive.google.com/file/d/1HdQCi0Qm2WmoarquzmSHRuZFbw4RgYGY/view?usp=sharing)
 - [17/08/2020 Operações de fold](https://youtu.be/_D380pkfibc)
+- [27/08/2020 Definindo tipos](https://drive.google.com/file/d/1FVDuMBGlPRrYGlJUkNBoudRIqVCcy9Hi/view?usp=sharing)
+
 
 ## Links
 - [Discord](https://discord.gg/yBmGaq6)
