@@ -59,9 +59,6 @@ divideByTen1  = (/10)
 dezPor :: Fractional a => a -> a
 dezPor = (10/)
 
-dividido :: Double -> Double -> Double
-dividido = (/)
-
 -- --------------
 comparar x y = compare x y
 
@@ -124,8 +121,10 @@ l = foldl (-) 54 [10, 11]
 -- foldl evaluates from left to right (left-associative)
 -- foldr evaluates from right to left (right-associative)
 
-
+\--
 main = do
     line <- getLine
     let vet = [read x :: Int | x <- words line]
     print $ estaOrdenada vet
+
+--
